@@ -74,11 +74,7 @@ function CoinPage() {
             <div className="coinPage-RouteButton">Go back</div>
           </Link>
 
-          {/* coinName={coins.name}
-              coinSymbol={coins.symbol}
-              price={coins.current_price}
-              marketCap={coins.market_cap}
-              priceChange={ */}
+
         </div>
       </div>
     );
